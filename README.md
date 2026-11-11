@@ -52,3 +52,13 @@ Our research found no existing app that combined all the features community gard
 ## Team
 
 Group project with 4 teammates.
+
+**My role:** I developed the user personas and translated their needs into the high-fidelity Figma prototype. I also helped run the usability testing and used participant feedback to iterate on the design.
+
+## Tools
+
+Figma · Paper prototyping · Think-aloud testing · System Usability Scale
+
+## Report
+
+The full write-up, including the research background, prototype iterations, and discussion, is available as a [PDF](Better-Gardens-Report.pdf).
