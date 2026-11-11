@@ -1,7 +1,7 @@
 # Better-Gardens-Prototype
 Group UX project (team of 5): "Better Gardens," a multigenerational community garden app with reminders, plant info, and a community hub. Figma prototype, usability-tested with 5 participants.
 
-**[Figma prototype](https://www.figma.com/design/HGwgreywisgcOghxeX9ObN/INFO10003?node-id=242-89&t=oDOH5kQZDj0cLtbi-1)** ~ [Full report (PDF)](Better-Gardens-Report.pdf)
+**[Figma prototype](https://www.figma.com/design/HGwgreywisgcOghxeX9ObN/INFO10003?node-id=242-89&t=oDOH5kQZDj0cLtbi-1)** ~ **[Full report (PDF)](Better-Gardens-Report.pdf)**
 
 ## Overview
 
